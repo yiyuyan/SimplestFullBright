@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "cn.ksmcbrigade.sfb",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "sfb.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "SimplestFullBright"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
